@@ -1,0 +1,109 @@
+﻿producto_id,codigo_sku,nombre,categoria_id,proveedor_id,unidad_medida,costo_estandar,precio_venta
+1,FER-0001,Cemento Tipo I 42.5kg,1,3,unidad,24.5,30.8
+2,FER-0002,Cemento Tipo MS 42.5kg,1,2,unidad,26.8,33.69
+3,FER-0003,Cemento Blanco 1kg,1,2,unidad,4.2,5.94
+4,FER-0004,Yeso 25kg,1,2,unidad,11.5,14.63
+5,FER-0005,Cal Hidratada 25kg,1,1,unidad,9.8,13.54
+6,FER-0006,Pegamento para Cerámica 25kg,1,2,unidad,17.5,24.4
+7,FER-0007,Fragua 5kg,1,2,unidad,12.0,15.67
+8,FER-0008,Arena Fina Saco 40kg,1,3,unidad,5.5,6.63
+9,FER-0009,Piedra Chancada Saco 40kg,1,1,unidad,6.0,7.69
+10,FER-0010,Ladrillo King Kong 18 huecos,1,1,unidad,1.1,1.49
+11,FER-0011,Ladrillo Pandereta,1,1,unidad,0.85,1.12
+12,FER-0012,Impermeabilizante 4L,1,2,unidad,38.0,54.91
+13,FER-0013,"Fierro Corrugado 1/2"" 9m",2,4,unidad,38.0,48.3
+14,FER-0014,"Fierro Corrugado 3/8"" 9m",2,5,unidad,22.0,27.02
+15,FER-0015,"Fierro Corrugado 5/8"" 9m",2,4,unidad,59.0,72.28
+16,FER-0016,"Fierro Liso 1/4"" 9m",2,5,unidad,11.0,14.52
+17,FER-0017,Alambre N°16 kg,2,4,kg,6.5,8.29
+18,FER-0018,Alambre N°8 kg,2,5,kg,6.2,7.48
+19,FER-0019,Malla Electrosoldada 2.4x6m,2,4,unidad,120.0,157.2
+20,FER-0020,Plancha Galvanizada 1.83m,2,4,unidad,28.0,35.45
+21,FER-0021,"Ángulo de Acero 1"" 6m",2,5,unidad,24.0,33.43
+22,FER-0022,"Tubo Cuadrado 1"" 6m",2,4,unidad,32.0,44.29
+23,FER-0023,"Platina 1"" 6m",2,5,unidad,18.0,21.96
+24,FER-0024,"Clavos de Acero 2"" kg",2,4,kg,6.9,9.15
+25,FER-0025,Martillo Carpintero 16oz,3,8,unidad,14.5,19.17
+26,FER-0026,"Alicate Universal 8""",3,18,unidad,12.0,15.52
+27,FER-0027,"Destornillador Phillips 6""",3,8,unidad,4.5,5.95
+28,FER-0028,"Destornillador Plano 6""",3,18,unidad,4.5,6.11
+29,FER-0029,"Llave Francesa 10""",3,8,unidad,16.0,20.67
+30,FER-0030,Cinta Métrica 5m,3,18,unidad,8.5,10.57
+31,FER-0031,"Nivel de Burbuja 24""",3,8,unidad,14.0,17.12
+32,FER-0032,"Serrucho 22""",3,6,unidad,18.0,21.73
+33,FER-0033,Palana Cuadrada,3,6,unidad,22.0,26.58
+34,FER-0034,Pico con Mango,3,6,unidad,28.0,37.77
+35,FER-0035,Carretilla Buggy,3,8,unidad,145.0,208.8
+36,FER-0036,"Espátula 3""",3,18,unidad,3.8,5.37
+37,FER-0037,Taladro Percutor 13mm 650W,4,7,unidad,145.0,205.32
+38,FER-0038,"Amoladora 4.5"" 750W",4,6,unidad,120.0,145.68
+39,FER-0039,"Sierra Circular 7.25"" 1400W",4,6,unidad,260.0,347.88
+40,FER-0040,Rotomartillo SDS 800W,4,6,unidad,330.0,434.28
+41,FER-0041,Lijadora Orbital 200W,4,6,unidad,95.0,133.57
+42,FER-0042,Atornillador Inalámbrico 12V,4,6,unidad,160.0,228.96
+43,FER-0043,Caladora 500W,4,6,unidad,140.0,178.64
+44,FER-0044,Pistola de Calor 1500W,4,6,unidad,75.0,108.08
+45,FER-0045,Compresor 24L 2HP,4,7,unidad,420.0,563.22
+46,FER-0046,Soldadora Inversora 200A,4,6,unidad,310.0,426.87
+47,FER-0047,"Esmeril de Banco 6""",4,7,unidad,180.0,228.96
+48,FER-0048,Cortadora de Cerámica 600mm,4,6,unidad,230.0,308.2
+49,FER-0049,Pintura Látex Blanco 4L,5,18,unidad,42.0,59.85
+50,FER-0050,Pintura Látex Color 4L,5,18,unidad,46.0,58.79
+51,FER-0051,Esmalte Sintético 1L,5,18,unidad,28.0,36.34
+52,FER-0052,Barniz Marino 1L,5,9,unidad,32.0,38.46
+53,FER-0053,Thinner Acrílico 1L,5,9,unidad,11.0,14.82
+54,FER-0054,Masilla 1kg,5,9,unidad,9.5,13.77
+55,FER-0055,Sellador 4L,5,18,unidad,36.0,49.97
+56,FER-0056,"Brocha 3""",5,9,unidad,5.5,6.68
+57,FER-0057,"Rodillo 9""",5,9,unidad,9.8,13.71
+58,FER-0058,Lija al Agua N°220,5,18,unidad,1.2,1.73
+59,FER-0059,Cinta Masking 24mm,5,9,unidad,3.6,4.54
+60,FER-0060,Pintura Aerosol 400ml,5,18,unidad,12.5,15.24
+61,FER-0061,"Tubo PVC Desagüe 4"" 3m",6,11,unidad,38.0,49.78
+62,FER-0062,"Tubo PVC Agua 1/2"" 5m",6,11,unidad,12.0,15.2
+63,FER-0063,"Codo PVC 1/2""",6,10,unidad,0.6,0.73
+64,FER-0064,"Tee PVC 1/2""",6,10,unidad,0.8,0.97
+65,FER-0065,"Válvula de Paso 1/2""",6,11,unidad,14.0,17.09
+66,FER-0066,Cinta Teflón,6,10,unidad,0.9,1.23
+67,FER-0067,Pegamento PVC 1/32gl,6,10,unidad,7.5,10.02
+68,FER-0068,"Grifo de Lavadero 1/2""",6,10,unidad,16.0,20.61
+69,FER-0069,Tanque de Agua 1100L,6,11,unidad,280.0,403.76
+70,FER-0070,"Flotador 1/2""",6,10,unidad,12.0,15.8
+71,FER-0071,Sifón Botella,6,11,unidad,11.0,14.55
+72,FER-0072,"Manguera 1/2"" x 15m",6,10,unidad,28.0,38.89
+73,FER-0073,Cable THW 14AWG 100m,7,13,unidad,118.0,164.49
+74,FER-0074,Cable THW 12AWG 100m,7,12,unidad,185.0,244.2
+75,FER-0075,Interruptor Simple,7,14,unidad,4.2,5.22
+76,FER-0076,Tomacorriente Doble,7,12,unidad,5.5,7.23
+77,FER-0077,Foco LED 9W,7,12,unidad,3.8,4.94
+78,FER-0078,Tubo LED 18W,7,13,unidad,12.0,16.84
+79,FER-0079,Cinta Aislante,7,14,unidad,2.5,3.16
+80,FER-0080,Canaleta 2cm 2m,7,12,unidad,4.5,5.58
+81,FER-0081,Llave Termomagnética 2x20A,7,14,unidad,28.0,37.18
+82,FER-0082,Caja Rectangular PVC,7,12,unidad,1.3,1.83
+83,FER-0083,Extensión Eléctrica 5m,7,12,unidad,18.0,23.67
+84,FER-0084,Reflector LED 50W,7,14,unidad,42.0,56.03
+85,FER-0085,"Clavos 2"" kg",8,5,kg,5.8,7.37
+86,FER-0086,"Clavos 3"" kg",8,5,kg,5.6,7.95
+87,FER-0087,"Tornillo Drywall 1"" x100",8,5,unidad,6.5,7.9
+88,FER-0088,Tornillo Autoperforante x100,8,8,unidad,8.0,11.09
+89,FER-0089,Tarugo Plástico 6mm x100,8,5,unidad,4.5,5.97
+90,FER-0090,"Perno Hexagonal 1/2"" x 3""",8,15,unidad,1.9,2.64
+91,FER-0091,"Tuerca 1/2""",8,8,unidad,0.5,0.62
+92,FER-0092,"Arandela Plana 1/2""",8,15,unidad,0.3,0.37
+93,FER-0093,"Bisagra 3"" par",8,5,par,4.8,6.63
+94,FER-0094,Candado 40mm,8,18,unidad,14.0,19.4
+95,FER-0095,Cadena Galvanizada 5mm m,8,8,m,6.5,8.26
+96,FER-0096,Silicona Transparente 280ml,8,18,unidad,9.5,11.44
+97,FER-0097,Casco de Seguridad,9,17,unidad,14.0,19.49
+98,FER-0098,Lentes de Seguridad,9,16,unidad,5.5,7.69
+99,FER-0099,Guantes de Cuero par,9,17,par,9.0,12.66
+100,FER-0100,Guantes de Nitrilo par,9,16,par,5.5,7.62
+101,FER-0101,Botas de Seguridad par,9,17,par,85.0,108.71
+102,FER-0102,Chaleco Reflectivo,9,17,unidad,12.0,15.6
+103,FER-0103,Mascarilla N95,9,17,unidad,3.5,4.98
+104,FER-0104,Tapones Auditivos par,9,16,par,1.8,2.41
+105,FER-0105,Arnés de Seguridad,9,16,unidad,95.0,119.51
+106,FER-0106,Extintor PQS 6kg,9,17,unidad,118.0,169.8
+107,FER-0107,Cinta de Seguridad 100m,9,16,unidad,11.0,13.67
+108,FER-0108,Conos de Seguridad,9,17,unidad,28.0,36.15

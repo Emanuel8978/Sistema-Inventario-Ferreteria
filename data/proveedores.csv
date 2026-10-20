@@ -1,0 +1,19 @@
+﻿proveedor_id,razon_social,ruc,contacto,telefono,email,direccion,ciudad,plazo_entrega_dias,condicion_pago
+1,Cementos Andinos S.A.,20483711207,Carmen Castillo,972981978,ventas1@proveedor.example,Av. Industrial 2810,Lima,4,15 días
+2,Ladrillos Rímac S.A.C.,20134976192,Luz Ríos,980875239,ventas2@proveedor.example,Av. Industrial 262,Lima,3,30 días
+3,Agregados Cañete S.A.C.,20751714142,Karla Navarro,923048020,ventas3@proveedor.example,Av. Industrial 308,Cañete,3,Contado
+4,Aceros del Pacífico S.A.C.,20456263181,Carmen Salazar,937514092,ventas4@proveedor.example,Av. Industrial 354,Chimbote,7,30 días
+5,Comercial Vulcano E.I.R.L.,20412503468,Luz Cruz,938936457,ventas5@proveedor.example,Av. Industrial 335,Lima,4,30 días
+6,Herramientas Titán S.A.C.,20302125449,Milagros Aguilar,979367853,ventas6@proveedor.example,Av. Industrial 1223,Lima,5,30 días
+7,Maquinarias Inti S.A.C.,20792749450,Jorge Ponce,981014114,ventas7@proveedor.example,Av. Industrial 1577,Callao,9,30 días
+8,Importaciones Kuntur S.A.C.,20994334548,Walter Delgado,943336345,ventas8@proveedor.example,Av. Industrial 387,Callao,8,Contado
+9,Pinturas Arco Iris S.A.,20920858081,José Navarro,937907668,ventas9@proveedor.example,Av. Industrial 960,Lima,4,Contado
+10,Plásticos y Tuberías Norte S.A.,20248858674,Raúl Quispe,963588554,ventas10@proveedor.example,Av. Industrial 2169,Trujillo,6,Contado
+11,Sanitarios Costa Sur S.A.,20954115466,Carlos Aguilar,983438211,ventas11@proveedor.example,Av. Industrial 2177,Ica,7,30 días
+12,ElectroPerú Distribuciones S.A.C.,20152463045,Paola Navarro,969494378,ventas12@proveedor.example,Av. Industrial 795,Lima,3,Contado
+13,Cables del Perú S.A.,20560154690,Víctor Salazar,921193826,ventas13@proveedor.example,Av. Industrial 2507,Lima,5,30 días
+14,Iluminación Lumen Perú S.A.C.,20798581180,Lucía Chávez,915760091,ventas14@proveedor.example,Av. Industrial 2721,Lima,6,15 días
+15,Tornillos y Pernos del Sur S.A.C.,20110423039,José Campos,949494966,ventas15@proveedor.example,Av. Industrial 2891,Arequipa,8,Contado
+16,Seguridad Total Perú S.A.C.,20306258329,Diego Ramos,995977113,ventas16@proveedor.example,Av. Industrial 1476,Lima,4,15 días
+17,Protec Industrial S.A.C.,20167432021,Fiorella Aguilar,951050186,ventas17@proveedor.example,Av. Industrial 1523,Callao,5,Contado
+18,Distribuidora Ferro Lima S.A.C.,20228706298,Ángel Mendoza,935294588,ventas18@proveedor.example,Av. Industrial 2906,Lima,3,15 días

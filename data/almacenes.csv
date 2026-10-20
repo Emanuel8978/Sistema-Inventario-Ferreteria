@@ -1,0 +1,7 @@
+﻿almacen_id,nombre,tipo,direccion,distrito,ciudad,telefono,responsable_id
+1,Almacén Central Ate,Almacén,Av. Nicolás Ayllón 4520,Ate,Lima,995270634,1
+2,Tienda Lima Norte,Tienda,Av. Alfredo Mendiola 3210,Los Olivos,Lima,969506324,6
+3,Tienda Callao,Tienda,Av. Argentina 1850,Callao,Callao,941187490,11
+4,Sucursal Arequipa,Tienda,Av. Parra 612,Arequipa,Arequipa,967471978,16
+5,Sucursal Trujillo,Tienda,Av. España 1420,Trujillo,Trujillo,938494782,21
+6,Sucursal Piura,Tienda,Av. Grau 905,Piura,Piura,942713426,26

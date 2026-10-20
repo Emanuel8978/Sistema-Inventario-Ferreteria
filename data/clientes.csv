@@ -1,0 +1,401 @@
+﻿cliente_id,tipo_documento,numero_documento,nombre_o_razon_social,tipo_cliente,email,telefono,direccion,distrito,ciudad,fecha_registro
+1,DNI,65194765,Paola Ponce Navarro,Persona natural,contacto1@cliente.example,990137438,Av. San Martín 380,La Esperanza,Trujillo,2022-05-30
+2,DNI,61610810,Luz Ríos Chávez,Maestro de obra,contacto2@cliente.example,913511836,Av. Grau 215,Ventanilla,Callao,2023-06-21
+3,RUC,20489840268,Constructora Valdivia E.I.R.L.,Constructora,contacto3@cliente.example,936527707,Av. Pardo 462,Ventanilla,Callao,2024-08-29
+4,DNI,91850036,José Ríos Quispe,Maestro de obra,,920648347,Av. Túpac Amaru 1443,Yanahuara,Arequipa,2022-10-01
+5,RUC,20135846444,Constructora Flores S.A.,Constructora,contacto5@cliente.example,955270729,Jr. Ayacucho 228,Trujillo,Trujillo,2024-07-03
+6,RUC,20702252829,Ferretería Paredes,Ferretería minorista,,923958528,Av. Pardo 1355,Lurigancho,Lima,2022-04-15
+7,DNI,41092060,Gabriela Vargas Mendoza,Maestro de obra,contacto7@cliente.example,954735559,Av. San Martín 1321,Veintiséis de Octubre,Piura,2022-05-11
+8,DNI,22646554,Luis Ríos Chávez,Persona natural,contacto8@cliente.example,924896399,Av. Túpac Amaru 369,Veintiséis de Octubre,Piura,2022-11-23
+9,DNI,99904600,Luz Paredes Vega,Persona natural,contacto9@cliente.example,925135795,Av. Los Álamos 1914,Yanahuara,Arequipa,2022-04-16
+10,DNI,92048258,Luz Paredes Cárdenas,Persona natural,contacto10@cliente.example,949485119,Calle Las Begonias 1535,Ate,Lima,2023-09-30
+11,DNI,95011534,José Herrera Delgado,Maestro de obra,contacto11@cliente.example,961844034,Calle Los Pinos 398,Santa Anita,Lima,2024-10-29
+12,DNI,43372330,Jorge Delgado Gutiérrez,Persona natural,,993606274,Calle Las Begonias 976,Trujillo,Trujillo,2022-07-05
+13,DNI,28822459,José Alarcón Gutiérrez,Maestro de obra,contacto13@cliente.example,992876555,Av. Grau 1700,Ate,Lima,2022-02-21
+14,DNI,80935009,Fiorella Gutiérrez Campos,Persona natural,contacto14@cliente.example,930800230,Calle Las Begonias 1299,Ate,Lima,2024-05-15
+15,RUC,20220900301,Constructora Medina S.A.C.,Constructora,contacto15@cliente.example,932341612,Calle Las Begonias 1613,Arequipa,Arequipa,2022-04-28
+16,DNI,27707375,Miguel Valdivia Herrera,Persona natural,,943335567,Calle Las Begonias 1248,Arequipa,Arequipa,2022-11-08
+17,DNI,98071278,Víctor Campos Delgado,Maestro de obra,contacto17@cliente.example,915290741,Av. Los Álamos 1111,San Martín de Porres,Lima,2023-03-06
+18,RUC,20279783429,Constructora Alarcón E.I.R.L.,Constructora,contacto18@cliente.example,927851761,Av. Pardo 945,Ventanilla,Callao,2023-07-02
+19,DNI,48467127,Fiorella Alarcón Navarro,Persona natural,contacto19@cliente.example,933081864,Av. Túpac Amaru 1400,Ate,Lima,2024-10-03
+20,DNI,37745993,Elena Quispe Valdivia,Persona natural,,935718722,Av. San Martín 218,Lurigancho,Lima,2024-05-08
+21,RUC,20392573999,Constructora Campos E.I.R.L.,Constructora,contacto21@cliente.example,943287189,Calle Los Pinos 960,Cayma,Arequipa,2024-08-14
+22,DNI,95380992,Víctor Ponce Castillo,Maestro de obra,,978118511,Av. Los Álamos 1915,Ate,Lima,2023-05-22
+23,RUC,20359963811,Ferretería Medina E.I.R.L.,Ferretería minorista,contacto23@cliente.example,943256853,Av. Grau 568,Independencia,Lima,2022-12-26
+24,RUC,10461736246,Lucía Aguilar Zevallos,Maestro de obra,contacto24@cliente.example,983634957,Av. Pardo 1889,Bellavista,Callao,2023-08-08
+25,DNI,43091136,Luis Alarcón Ríos,Maestro de obra,contacto25@cliente.example,948216092,Jr. Ayacucho 569,Yanahuara,Arequipa,2024-10-09
+26,DNI,33017146,Carlos Chávez Zevallos,Persona natural,contacto26@cliente.example,943806504,Jr. Ayacucho 930,Independencia,Lima,2022-02-21
+27,DNI,63483895,Fiorella Vargas Huamán,Persona natural,contacto27@cliente.example,935060043,Av. Los Álamos 291,Arequipa,Arequipa,2024-12-21
+28,RUC,10954858260,Percy Silva Ríos,Maestro de obra,,910135511,Calle Las Begonias 1403,Castilla,Piura,2022-08-04
+29,DNI,73327927,Óscar Campos Medina,Persona natural,contacto29@cliente.example,973428634,Av. Los Álamos 1101,Independencia,Lima,2022-02-22
+30,DNI,45039220,Walter Navarro Campos,Persona natural,contacto30@cliente.example,947801236,Av. Los Álamos 1945,Santa Anita,Lima,2023-11-06
+31,DNI,68847792,Héctor Ramos Gutiérrez,Maestro de obra,,930351394,Jr. Junín 407,Independencia,Lima,2022-07-17
+32,DNI,96546750,Carmen Chávez Flores,Persona natural,,950862075,Av. Grau 890,Callao,Callao,2022-12-05
+33,RUC,20997434845,Constructora Gutiérrez E.I.R.L.,Constructora,contacto33@cliente.example,927874456,Av. Pardo 1020,Castilla,Piura,2023-03-28
+34,DNI,56707446,Víctor Herrera Salazar,Persona natural,contacto34@cliente.example,920121346,Av. San Martín 388,Independencia,Lima,2022-06-10
+35,DNI,44411455,Luz Cárdenas Quispe,Persona natural,contacto35@cliente.example,931230573,Av. Pardo 1163,Castilla,Piura,2024-06-20
+36,RUC,20382756057,Constructora Soto E.I.R.L.,Constructora,,942805300,Av. Los Álamos 203,Veintiséis de Octubre,Piura,2024-01-01
+37,DNI,29288105,Gabriela Silva Flores,Maestro de obra,contacto37@cliente.example,925497735,Jr. Ayacucho 1756,Bellavista,Callao,2022-03-20
+38,DNI,48410032,Óscar Torres Paredes,Maestro de obra,contacto38@cliente.example,962550835,Calle Los Pinos 1780,San Martín de Porres,Lima,2023-03-18
+39,RUC,20678042435,Ferretería Castillo,Ferretería minorista,contacto39@cliente.example,937539086,Jr. Junín 940,La Esperanza,Trujillo,2023-06-28
+40,DNI,37670489,José Ramos Vargas,Persona natural,contacto40@cliente.example,985890271,Jr. Junín 1227,Cerro Colorado,Arequipa,2023-11-20
+41,DNI,50642153,José Navarro Vega,Persona natural,contacto41@cliente.example,926113922,Jr. Junín 346,Lurigancho,Lima,2024-12-18
+42,RUC,20718843660,Ferretería Lozano E.I.R.L.,Ferretería minorista,contacto42@cliente.example,940827234,Av. Los Álamos 1408,Cerro Colorado,Arequipa,2023-10-15
+43,DNI,96424997,Ana Ríos Torres,Maestro de obra,contacto43@cliente.example,994092411,Av. Grau 456,Yanahuara,Arequipa,2024-01-14
+44,DNI,48046030,Sofía Ramos Soto,Persona natural,contacto44@cliente.example,966857051,Av. Los Álamos 1086,San Martín de Porres,Lima,2022-06-26
+45,DNI,51110619,Ángel Lozano Delgado,Maestro de obra,contacto45@cliente.example,933220581,Av. San Martín 1986,Piura,Piura,2023-04-25
+46,DNI,66291413,Carlos Gutiérrez Ramos,Persona natural,contacto46@cliente.example,994399967,Av. Grau 174,Arequipa,Arequipa,2022-10-17
+47,DNI,44160812,Juan Ponce Salazar,Persona natural,contacto47@cliente.example,992191770,Av. Pardo 1559,Independencia,Lima,2023-12-18
+48,DNI,91550738,Óscar Flores Vega,Maestro de obra,,951205841,Jr. Junín 1607,Víctor Larco,Trujillo,2024-03-11
+49,DNI,88210167,Yesenia Alarcón Cárdenas,Maestro de obra,,944297008,Calle Los Pinos 1854,Independencia,Lima,2024-07-24
+50,DNI,96059185,Óscar Aguilar Medina,Persona natural,,919414195,Calle Los Pinos 600,San Martín de Porres,Lima,2022-03-05
+51,DNI,88337337,Paola Soto Salazar,Persona natural,,920840382,Jr. Ayacucho 599,Bellavista,Callao,2022-06-07
+52,DNI,23399010,Rosa Navarro Soto,Persona natural,contacto52@cliente.example,982234313,Jr. Ayacucho 260,Trujillo,Trujillo,2023-02-11
+53,DNI,81151370,Sofía Zevallos Cárdenas,Persona natural,contacto53@cliente.example,916647376,Calle Los Pinos 607,San Martín de Porres,Lima,2023-04-26
+54,RUC,20437682064,Constructora Alarcón S.A.C.,Constructora,contacto54@cliente.example,921091310,Av. San Martín 1836,Castilla,Piura,2024-09-17
+55,RUC,20752651549,Constructora Chávez E.I.R.L.,Constructora,contacto55@cliente.example,968270921,Av. Los Álamos 741,Santa Anita,Lima,2023-05-19
+56,DNI,31724959,Fiorella Ramos Vargas,Persona natural,contacto56@cliente.example,943718129,Jr. Libertad 617,La Perla,Callao,2024-08-15
+57,RUC,20246171672,Constructora Ríos S.A.,Constructora,contacto57@cliente.example,934952426,Jr. Ayacucho 1989,Veintiséis de Octubre,Piura,2024-09-24
+58,RUC,10147101171,María Paredes Ríos,Maestro de obra,,924144477,Calle Las Begonias 1797,Trujillo,Trujillo,2023-07-06
+59,DNI,88850112,Diego Rojas Cárdenas,Maestro de obra,contacto59@cliente.example,982082639,Av. Túpac Amaru 1335,Lurigancho,Lima,2023-08-24
+60,RUC,20330717756,Constructora Ramos S.A.C.,Constructora,contacto60@cliente.example,911742502,Av. Pardo 589,Callao,Callao,2022-07-03
+61,DNI,84193384,María Aguilar Ríos,Maestro de obra,contacto61@cliente.example,941193125,Jr. Libertad 522,Santa Anita,Lima,2022-02-27
+62,RUC,20254183889,Constructora Alarcón E.I.R.L.,Constructora,,958691024,Calle Las Begonias 1693,Ate,Lima,2024-01-20
+63,RUC,20319404951,Constructora Castillo E.I.R.L.,Constructora,,911326368,Av. Grau 1842,Ventanilla,Callao,2024-08-03
+64,RUC,10982764495,Óscar Silva Medina,Maestro de obra,contacto64@cliente.example,936960675,Av. Túpac Amaru 201,Lurigancho,Lima,2023-05-25
+65,RUC,20841473680,Ferretería Chávez S.A.C.,Ferretería minorista,,984602767,Calle Las Begonias 1915,Cerro Colorado,Arequipa,2023-06-19
+66,DNI,66044020,Yesenia Torres Ríos,Persona natural,contacto66@cliente.example,997676128,Jr. Libertad 1921,Trujillo,Trujillo,2023-03-22
+67,RUC,20296520385,Constructora Vargas S.A.C.,Constructora,contacto67@cliente.example,991830478,Av. Túpac Amaru 822,Víctor Larco,Trujillo,2022-03-15
+68,DNI,25131780,José Delgado Cárdenas,Persona natural,,959321200,Jr. Libertad 462,Cayma,Arequipa,2024-03-08
+69,DNI,41955751,Víctor Paredes Cruz,Maestro de obra,contacto69@cliente.example,958985396,Jr. Junín 1151,Cayma,Arequipa,2022-07-14
+70,DNI,26968904,Luz Zevallos Navarro,Maestro de obra,,951555739,Calle Las Begonias 1907,Castilla,Piura,2024-09-14
+71,DNI,18843625,María Gutiérrez Torres,Persona natural,contacto71@cliente.example,986392583,Av. San Martín 722,Piura,Piura,2023-10-29
+72,RUC,20258831647,Constructora Torres S.A.C.,Constructora,,983684550,Av. San Martín 497,San Martín de Porres,Lima,2022-11-05
+73,DNI,63595323,Juan Soto Medina,Maestro de obra,contacto73@cliente.example,996562687,Calle Los Pinos 989,Bellavista,Callao,2024-03-09
+74,RUC,20428967303,Constructora Soto S.A.,Constructora,,963813904,Av. Pardo 1432,Víctor Larco,Trujillo,2023-04-22
+75,DNI,24574298,Yesenia Lozano Salazar,Maestro de obra,,991600079,Jr. Libertad 560,Ate,Lima,2024-06-24
+76,RUC,20946092521,Ferretería Quispe S.A.C.,Ferretería minorista,contacto76@cliente.example,927734486,Av. Túpac Amaru 1730,Comas,Lima,2023-11-13
+77,DNI,75993662,Ana Valdivia Mendoza,Maestro de obra,,943352300,Av. San Martín 1515,Arequipa,Arequipa,2023-04-17
+78,DNI,10147721,Milagros Castillo Flores,Persona natural,,970615206,Av. Túpac Amaru 974,Los Olivos,Lima,2023-09-09
+79,DNI,30803656,Karla Herrera Quispe,Maestro de obra,,964055175,Jr. Libertad 1854,Bellavista,Callao,2023-02-03
+80,DNI,79420164,Diego Ramos Ramos,Maestro de obra,contacto80@cliente.example,945510598,Calle Las Begonias 1264,Víctor Larco,Trujillo,2022-03-05
+81,DNI,93201703,Víctor Castillo Gutiérrez,Maestro de obra,contacto81@cliente.example,932275604,Jr. Junín 139,Castilla,Piura,2024-09-08
+82,DNI,14934362,Ángel Zevallos Quispe,Persona natural,,967070760,Jr. Junín 1413,San Martín de Porres,Lima,2022-08-21
+83,DNI,75832548,Elena Paredes Cárdenas,Maestro de obra,contacto83@cliente.example,970102450,Av. Grau 790,Veintiséis de Octubre,Piura,2022-06-02
+84,RUC,20908830836,Ferretería Mendoza E.I.R.L.,Ferretería minorista,,921260026,Jr. Libertad 1686,Ate,Lima,2023-03-16
+85,DNI,51480128,Víctor Medina Gutiérrez,Persona natural,contacto85@cliente.example,929478855,Jr. Libertad 1277,Comas,Lima,2022-05-29
+86,RUC,20978683456,Constructora Ponce S.A.,Constructora,contacto86@cliente.example,960209582,Calle Los Pinos 139,Ate,Lima,2024-09-25
+87,DNI,34028654,Jorge Ramos Torres,Maestro de obra,contacto87@cliente.example,941640663,Jr. Libertad 627,La Esperanza,Trujillo,2024-04-02
+88,DNI,51021304,Ángel Delgado Zevallos,Maestro de obra,contacto88@cliente.example,944748424,Calle Los Pinos 125,Comas,Lima,2022-01-19
+89,DNI,93111200,Rosa Alarcón Castillo,Persona natural,contacto89@cliente.example,944338207,Av. San Martín 303,Trujillo,Trujillo,2024-05-13
+90,DNI,48491039,Luis Soto Campos,Maestro de obra,contacto90@cliente.example,927145105,Calle Los Pinos 1076,Lurigancho,Lima,2022-10-26
+91,DNI,65645333,Raúl Paredes Silva,Persona natural,contacto91@cliente.example,976500833,Av. Grau 447,Los Olivos,Lima,2024-04-23
+92,DNI,50038411,Óscar Flores Aguilar,Persona natural,contacto92@cliente.example,966482261,Av. San Martín 1439,San Martín de Porres,Lima,2024-08-07
+93,DNI,82076406,Lucía Cárdenas Torres,Persona natural,,935167989,Av. Túpac Amaru 1688,Santa Anita,Lima,2024-05-03
+94,DNI,33439757,Víctor Salazar Medina,Maestro de obra,contacto94@cliente.example,989132507,Av. Los Álamos 1142,Trujillo,Trujillo,2022-03-24
+95,DNI,23396829,Ana Aguilar Rojas,Maestro de obra,contacto95@cliente.example,997164995,Calle Las Begonias 890,Callao,Callao,2023-11-12
+96,DNI,66387721,Milagros Flores Vargas,Persona natural,contacto96@cliente.example,953472176,Av. Túpac Amaru 1034,Callao,Callao,2022-06-02
+97,DNI,45641247,Pedro Cruz Vega,Maestro de obra,,934886002,Av. Grau 1387,Piura,Piura,2023-09-07
+98,DNI,61331070,Yesenia Lozano Ramos,Maestro de obra,contacto98@cliente.example,974397320,Calle Los Pinos 407,La Esperanza,Trujillo,2022-07-24
+99,DNI,77692929,Ana Zevallos Vargas,Persona natural,contacto99@cliente.example,993916369,Jr. Junín 1094,Cayma,Arequipa,2023-11-24
+100,RUC,20827509487,Constructora Quispe E.I.R.L.,Constructora,contacto100@cliente.example,930707216,Jr. Libertad 145,Veintiséis de Octubre,Piura,2023-01-13
+101,RUC,20679539864,Constructora Flores E.I.R.L.,Constructora,contacto101@cliente.example,966975969,Calle Los Pinos 1614,Ventanilla,Callao,2022-05-05
+102,DNI,68615838,Raúl Alarcón Cárdenas,Maestro de obra,contacto102@cliente.example,993513398,Av. San Martín 269,Veintiséis de Octubre,Piura,2024-06-18
+103,DNI,16298654,Diego Navarro Cárdenas,Persona natural,,973480273,Av. Grau 1082,Ate,Lima,2023-02-18
+104,DNI,68760797,Ana Ríos Alarcón,Maestro de obra,contacto104@cliente.example,986172297,Av. Grau 895,Bellavista,Callao,2023-03-02
+105,DNI,64805087,Luz Soto Delgado,Maestro de obra,contacto105@cliente.example,950893851,Calle Las Begonias 1859,Arequipa,Arequipa,2024-08-12
+106,DNI,19987578,Lucía Campos Vargas,Persona natural,,947967856,Av. Los Álamos 1618,Cerro Colorado,Arequipa,2023-12-04
+107,RUC,20764178427,Constructora Cruz E.I.R.L.,Constructora,contacto107@cliente.example,932158366,Av. San Martín 884,Piura,Piura,2023-07-26
+108,RUC,20777518030,Constructora Salazar S.A.C.,Constructora,contacto108@cliente.example,932688474,Av. Los Álamos 1768,Independencia,Lima,2023-07-13
+109,DNI,91150793,Fiorella Herrera Huamán,Persona natural,contacto109@cliente.example,955384485,Av. San Martín 153,Piura,Piura,2022-09-17
+110,DNI,58156175,Karla Navarro Flores,Persona natural,,917208655,Av. Grau 1470,Independencia,Lima,2023-09-17
+111,DNI,34527373,Víctor Ríos Aguilar,Maestro de obra,,997724071,Av. Los Álamos 1834,Víctor Larco,Trujillo,2024-10-06
+112,DNI,88231104,Walter Cárdenas Torres,Persona natural,contacto112@cliente.example,951189386,Av. Pardo 1721,Cerro Colorado,Arequipa,2023-07-30
+113,RUC,20908189484,Constructora Chávez E.I.R.L.,Constructora,contacto113@cliente.example,916336213,Av. Túpac Amaru 1754,Veintiséis de Octubre,Piura,2022-05-12
+114,DNI,86883244,Luis Aguilar Medina,Maestro de obra,,958911225,Jr. Libertad 512,Comas,Lima,2023-06-23
+115,RUC,20391291612,Ferretería Salazar,Ferretería minorista,contacto115@cliente.example,979010413,Jr. Ayacucho 526,Castilla,Piura,2024-01-26
+116,DNI,80950633,Walter Medina Soto,Maestro de obra,contacto116@cliente.example,944537519,Av. San Martín 1600,Comas,Lima,2023-11-14
+117,RUC,20383444354,Ferretería Torres,Ferretería minorista,,982734920,Jr. Libertad 280,Lurigancho,Lima,2023-05-26
+118,RUC,20648291530,Ferretería Delgado S.A.C.,Ferretería minorista,contacto118@cliente.example,915121004,Calle Las Begonias 168,Cayma,Arequipa,2024-04-23
+119,DNI,69587796,Diego Torres Aguilar,Maestro de obra,,953100042,Calle Los Pinos 907,Castilla,Piura,2022-08-06
+120,DNI,41532368,Óscar Mendoza Quispe,Persona natural,,949424652,Jr. Libertad 1664,Santa Anita,Lima,2024-01-20
+121,DNI,58920715,Milagros Flores Paredes,Persona natural,contacto121@cliente.example,979554969,Jr. Ayacucho 1342,Ate,Lima,2023-07-26
+122,DNI,59774168,Patricia Herrera Delgado,Persona natural,,964648074,Av. Pardo 1572,Callao,Callao,2022-07-11
+123,DNI,61255037,Percy Flores Quispe,Persona natural,,916731461,Av. Grau 1791,Víctor Larco,Trujillo,2024-02-07
+124,DNI,10391624,Lucía Delgado Cruz,Persona natural,,945433112,Av. San Martín 1420,San Martín de Porres,Lima,2022-03-21
+125,DNI,21987890,Luz Silva Huamán,Maestro de obra,,930909871,Av. Pardo 106,Santa Anita,Lima,2024-09-04
+126,DNI,89125040,Walter Lozano Ramos,Maestro de obra,contacto126@cliente.example,957697010,Jr. Junín 284,Los Olivos,Lima,2024-09-12
+127,DNI,31692893,Rosa Zevallos Campos,Persona natural,contacto127@cliente.example,979647585,Calle Los Pinos 529,Santa Anita,Lima,2022-03-09
+128,DNI,76613583,Walter Herrera Campos,Persona natural,contacto128@cliente.example,956490667,Calle Las Begonias 1572,Lurigancho,Lima,2022-01-23
+129,RUC,20878526395,Ferretería Gutiérrez,Ferretería minorista,contacto129@cliente.example,987567004,Av. Pardo 715,Lurigancho,Lima,2022-06-27
+130,DNI,17842170,Carlos Torres Quispe,Maestro de obra,,924832979,Calle Las Begonias 1176,Víctor Larco,Trujillo,2023-12-28
+131,DNI,91983424,Sofía Salazar Cárdenas,Maestro de obra,contacto131@cliente.example,919767090,Av. Grau 1617,Independencia,Lima,2022-11-22
+132,DNI,15178606,Lucía Vargas Zevallos,Persona natural,contacto132@cliente.example,951035102,Av. Grau 893,Comas,Lima,2022-08-23
+133,DNI,17096890,Fiorella Mendoza Vargas,Persona natural,contacto133@cliente.example,933412687,Av. San Martín 1193,Víctor Larco,Trujillo,2023-06-01
+134,DNI,90356257,Diego Salazar Cárdenas,Maestro de obra,contacto134@cliente.example,987706270,Jr. Libertad 1341,Lurigancho,Lima,2023-09-09
+135,DNI,37366982,Carmen Mendoza Ramos,Persona natural,contacto135@cliente.example,960228745,Jr. Junín 215,Trujillo,Trujillo,2022-09-12
+136,DNI,53204781,Milagros Salazar Ríos,Persona natural,contacto136@cliente.example,910362722,Calle Las Begonias 851,Cerro Colorado,Arequipa,2022-04-29
+137,RUC,20235046695,Constructora Lozano E.I.R.L.,Constructora,contacto137@cliente.example,929231475,Jr. Ayacucho 431,Santa Anita,Lima,2022-05-05
+138,RUC,20311521309,Constructora Cruz S.A.,Constructora,contacto138@cliente.example,977879014,Av. Los Álamos 1630,Bellavista,Callao,2022-10-19
+139,RUC,20722415636,Constructora Alarcón E.I.R.L.,Constructora,contacto139@cliente.example,980863254,Av. Los Álamos 1506,Bellavista,Callao,2023-02-23
+140,RUC,10110997410,Ana Silva Soto,Maestro de obra,,928615272,Av. Túpac Amaru 641,Santa Anita,Lima,2022-10-18
+141,DNI,82760404,Carlos Torres Rojas,Persona natural,contacto141@cliente.example,983676834,Av. Los Álamos 1369,Castilla,Piura,2022-11-27
+142,RUC,20674334348,Ferretería Huamán S.A.C.,Ferretería minorista,,969064233,Av. San Martín 1435,Cayma,Arequipa,2023-08-03
+143,DNI,78243160,Lucía Ponce Delgado,Maestro de obra,contacto143@cliente.example,969090623,Av. Grau 1153,Lurigancho,Lima,2022-10-29
+144,DNI,65497383,Luis Gutiérrez Campos,Persona natural,contacto144@cliente.example,947555228,Jr. Libertad 1221,Comas,Lima,2022-03-12
+145,DNI,31627736,Óscar Gutiérrez Cárdenas,Persona natural,contacto145@cliente.example,937579962,Jr. Junín 131,Lurigancho,Lima,2024-06-13
+146,DNI,79348933,Juan Medina Flores,Persona natural,,989163474,Av. San Martín 443,Yanahuara,Arequipa,2023-02-25
+147,DNI,85447384,Gabriela Valdivia Cruz,Persona natural,,936608128,Av. Grau 1536,Callao,Callao,2024-10-23
+148,DNI,13701714,Jorge Castillo Cruz,Persona natural,contacto148@cliente.example,925791492,Jr. Junín 524,Santa Anita,Lima,2023-05-25
+149,DNI,92735918,Lucía Medina Lozano,Persona natural,,977640189,Calle Las Begonias 1037,La Esperanza,Trujillo,2023-10-08
+150,RUC,20604507288,Constructora Gutiérrez S.A.C.,Constructora,contacto150@cliente.example,982301307,Av. San Martín 487,Ventanilla,Callao,2022-08-01
+151,DNI,51279124,Karla Valdivia Herrera,Persona natural,contacto151@cliente.example,944959767,Jr. Libertad 1101,San Martín de Porres,Lima,2024-06-14
+152,RUC,10193032829,Óscar Flores Cruz,Maestro de obra,,923316334,Calle Las Begonias 1957,La Esperanza,Trujillo,2023-07-31
+153,DNI,70569633,Yesenia Ponce Valdivia,Maestro de obra,contacto153@cliente.example,978718198,Jr. Ayacucho 216,Lurigancho,Lima,2023-03-15
+154,RUC,20383931039,Constructora Chávez S.A.,Constructora,,942862669,Calle Las Begonias 1852,Ventanilla,Callao,2023-03-01
+155,DNI,55790661,José Flores Ríos,Maestro de obra,contacto155@cliente.example,966265407,Jr. Libertad 292,Arequipa,Arequipa,2022-10-29
+156,DNI,26355202,Pedro Vargas Cruz,Persona natural,contacto156@cliente.example,996408208,Av. Grau 1597,Los Olivos,Lima,2022-09-17
+157,DNI,97927858,Ángel Cárdenas Paredes,Maestro de obra,contacto157@cliente.example,968300634,Jr. Junín 1129,Yanahuara,Arequipa,2024-12-21
+158,DNI,76629227,Miguel Ponce Torres,Persona natural,contacto158@cliente.example,963653660,Av. San Martín 632,Cayma,Arequipa,2024-02-04
+159,RUC,20544625293,Ferretería Quispe E.I.R.L.,Ferretería minorista,,941194964,Calle Los Pinos 703,Castilla,Piura,2022-05-31
+160,DNI,63826294,Percy Medina Campos,Persona natural,,930949600,Jr. Libertad 1262,San Martín de Porres,Lima,2022-11-13
+161,DNI,64864397,Óscar Torres Ramos,Persona natural,,967741134,Av. Grau 1827,Comas,Lima,2024-10-21
+162,RUC,20152308291,Ferretería Silva E.I.R.L.,Ferretería minorista,contacto162@cliente.example,986368708,Av. San Martín 318,La Esperanza,Trujillo,2023-05-22
+163,DNI,84803855,Gabriela Herrera Vega,Maestro de obra,,950004995,Jr. Ayacucho 1635,Bellavista,Callao,2022-05-24
+164,RUC,20337413866,Ferretería Torres E.I.R.L.,Ferretería minorista,,928522731,Jr. Ayacucho 1659,Santa Anita,Lima,2024-03-02
+165,DNI,94793248,Fiorella Delgado Castillo,Persona natural,,975833307,Av. San Martín 1413,Ventanilla,Callao,2023-04-05
+166,RUC,20116779656,Ferretería Delgado S.A.C.,Ferretería minorista,contacto166@cliente.example,987150437,Av. Los Álamos 274,La Perla,Callao,2024-03-04
+167,DNI,38081284,Jorge Alarcón Silva,Maestro de obra,contacto167@cliente.example,989982661,Av. Los Álamos 326,Independencia,Lima,2023-08-26
+168,RUC,20429062389,Constructora Huamán S.A.C.,Constructora,contacto168@cliente.example,966207014,Av. Grau 826,Santa Anita,Lima,2023-05-20
+169,RUC,20545780192,Constructora Zevallos S.A.C.,Constructora,contacto169@cliente.example,982134349,Calle Las Begonias 1108,Comas,Lima,2024-03-12
+170,DNI,66367386,Milagros Aguilar Navarro,Persona natural,contacto170@cliente.example,918227567,Av. Túpac Amaru 1596,Yanahuara,Arequipa,2024-01-19
+171,RUC,20915685527,Ferretería Silva S.A.C.,Ferretería minorista,,946913234,Jr. Libertad 466,Los Olivos,Lima,2022-07-05
+172,DNI,23613207,Luz Navarro Ramos,Persona natural,contacto172@cliente.example,979718476,Jr. Junín 1527,Arequipa,Arequipa,2023-07-14
+173,DNI,83147216,Ángel Zevallos Cárdenas,Persona natural,contacto173@cliente.example,962396699,Av. San Martín 1068,Comas,Lima,2022-10-18
+174,RUC,20566920581,Ferretería Medina,Ferretería minorista,contacto174@cliente.example,978669420,Av. Pardo 146,Piura,Piura,2022-06-26
+175,DNI,85981952,Sofía Soto Huamán,Persona natural,contacto175@cliente.example,989892350,Jr. Junín 1234,La Perla,Callao,2023-01-24
+176,RUC,20745758694,Constructora Ramos S.A.C.,Constructora,contacto176@cliente.example,994813407,Calle Los Pinos 1735,Ate,Lima,2024-01-07
+177,DNI,40165943,Gabriela Medina Ríos,Persona natural,,914947231,Jr. Ayacucho 1972,Los Olivos,Lima,2022-11-22
+178,RUC,20849363291,Constructora Campos S.A.,Constructora,contacto178@cliente.example,965736379,Calle Las Begonias 1816,Veintiséis de Octubre,Piura,2024-12-12
+179,DNI,97994142,Luz Gutiérrez Rojas,Persona natural,,985092244,Calle Las Begonias 1747,Trujillo,Trujillo,2022-04-15
+180,RUC,20839775655,Constructora Torres S.A.,Constructora,,997988282,Av. Pardo 1588,Comas,Lima,2024-07-15
+181,DNI,83336667,Carlos Chávez Zevallos,Maestro de obra,,996550588,Av. San Martín 1494,Los Olivos,Lima,2024-10-18
+182,DNI,47717555,Jorge Salazar Zevallos,Persona natural,contacto182@cliente.example,945176294,Jr. Ayacucho 1215,Trujillo,Trujillo,2022-03-13
+183,RUC,20334473755,Ferretería Lozano S.A.C.,Ferretería minorista,contacto183@cliente.example,933572822,Av. Los Álamos 137,Callao,Callao,2023-02-18
+184,RUC,20976637984,Constructora Flores S.A.C.,Constructora,contacto184@cliente.example,952709335,Jr. Junín 430,Callao,Callao,2022-11-08
+185,DNI,53786466,Ángel Cruz Paredes,Maestro de obra,,959123326,Av. Grau 433,Trujillo,Trujillo,2023-01-15
+186,DNI,57312200,Jorge Rojas Navarro,Persona natural,,937565108,Av. Túpac Amaru 199,Lurigancho,Lima,2024-10-15
+187,DNI,72922747,Percy Medina Chávez,Persona natural,contacto187@cliente.example,927811149,Calle Los Pinos 1709,Comas,Lima,2024-05-09
+188,DNI,82755661,Elena Ríos Vargas,Persona natural,,911846195,Jr. Ayacucho 1805,Castilla,Piura,2022-05-19
+189,RUC,20443263846,Constructora Flores E.I.R.L.,Constructora,contacto189@cliente.example,983591067,Av. Túpac Amaru 624,Castilla,Piura,2022-01-30
+190,DNI,21004864,Paola Paredes Torres,Persona natural,,951814329,Av. Los Álamos 1871,Piura,Piura,2024-02-12
+191,DNI,37650300,Paola Salazar Ponce,Persona natural,contacto191@cliente.example,968973063,Av. Túpac Amaru 1013,Los Olivos,Lima,2022-12-28
+192,DNI,66458661,Luis Delgado Medina,Persona natural,contacto192@cliente.example,990427523,Av. Pardo 1007,Santa Anita,Lima,2024-11-06
+193,RUC,20690148860,Constructora Vega S.A.C.,Constructora,contacto193@cliente.example,937610764,Calle Las Begonias 1207,Comas,Lima,2022-06-16
+194,DNI,80634008,Paola Soto Ríos,Maestro de obra,contacto194@cliente.example,954233718,Av. Los Álamos 122,Ate,Lima,2024-07-11
+195,RUC,20771249454,Ferretería Alarcón E.I.R.L.,Ferretería minorista,contacto195@cliente.example,973577908,Jr. Libertad 1612,Los Olivos,Lima,2023-07-31
+196,DNI,49462219,Sofía Ponce Aguilar,Maestro de obra,contacto196@cliente.example,990316294,Av. Los Álamos 1360,La Perla,Callao,2022-01-13
+197,DNI,23788666,Víctor Chávez Aguilar,Maestro de obra,contacto197@cliente.example,923778274,Calle Las Begonias 1958,Cerro Colorado,Arequipa,2023-12-03
+198,RUC,20592780972,Ferretería Ponce E.I.R.L.,Ferretería minorista,contacto198@cliente.example,995432404,Av. Pardo 1633,Cerro Colorado,Arequipa,2022-11-04
+199,DNI,87115873,Jorge Herrera Medina,Persona natural,contacto199@cliente.example,920199177,Jr. Libertad 942,Cayma,Arequipa,2024-07-31
+200,RUC,20169678836,Constructora Vargas S.A.,Constructora,,979567527,Jr. Ayacucho 417,Lurigancho,Lima,2024-06-03
+201,DNI,62960359,Carlos Lozano Cruz,Persona natural,,920713851,Av. San Martín 1029,Yanahuara,Arequipa,2023-07-01
+202,RUC,20948112591,Constructora Rojas S.A.C.,Constructora,contacto202@cliente.example,930265332,Calle Las Begonias 999,Víctor Larco,Trujillo,2023-11-26
+203,DNI,59317573,Yesenia Flores Soto,Persona natural,,933050914,Av. Túpac Amaru 1197,Trujillo,Trujillo,2023-09-21
+204,DNI,80329712,Elena Medina Chávez,Persona natural,contacto204@cliente.example,913588863,Jr. Ayacucho 136,Santa Anita,Lima,2022-03-28
+205,DNI,88658123,Jorge Rojas Campos,Persona natural,contacto205@cliente.example,930966838,Av. San Martín 1617,Ate,Lima,2023-02-15
+206,RUC,20481925341,Constructora Campos E.I.R.L.,Constructora,contacto206@cliente.example,933774127,Jr. Libertad 600,Independencia,Lima,2023-09-16
+207,RUC,20942246812,Ferretería Vargas,Ferretería minorista,contacto207@cliente.example,968211917,Jr. Libertad 1240,La Perla,Callao,2024-09-20
+208,RUC,20244107544,Ferretería Soto E.I.R.L.,Ferretería minorista,contacto208@cliente.example,963006908,Av. Pardo 407,La Esperanza,Trujillo,2024-12-25
+209,RUC,20721711992,Ferretería Herrera E.I.R.L.,Ferretería minorista,contacto209@cliente.example,961788300,Jr. Libertad 1372,Bellavista,Callao,2023-08-11
+210,DNI,60690055,Ana Delgado Ramos,Persona natural,contacto210@cliente.example,966297115,Av. Los Álamos 1996,La Esperanza,Trujillo,2024-06-09
+211,RUC,20908357751,Constructora Ponce S.A.,Constructora,contacto211@cliente.example,962834150,Av. Túpac Amaru 1255,Comas,Lima,2024-11-16
+212,DNI,87968230,María Medina Lozano,Persona natural,contacto212@cliente.example,944503497,Av. Pardo 384,Ate,Lima,2022-03-04
+213,RUC,20698418268,Constructora Cruz S.A.,Constructora,contacto213@cliente.example,973305109,Av. Los Álamos 461,Comas,Lima,2023-09-16
+214,DNI,56097306,Paola Paredes Zevallos,Maestro de obra,contacto214@cliente.example,926064085,Calle Los Pinos 853,Comas,Lima,2024-09-26
+215,DNI,57440373,Lucía Cárdenas Soto,Persona natural,,982889313,Calle Las Begonias 1856,Comas,Lima,2023-01-30
+216,DNI,64397908,José Ponce Vargas,Maestro de obra,contacto216@cliente.example,962257152,Av. Túpac Amaru 1026,Veintiséis de Octubre,Piura,2023-10-24
+217,DNI,77037448,María Salazar Ramos,Persona natural,contacto217@cliente.example,953940943,Av. Los Álamos 883,Callao,Callao,2023-04-04
+218,DNI,79279879,José Valdivia Ponce,Maestro de obra,contacto218@cliente.example,986011483,Calle Los Pinos 1673,Víctor Larco,Trujillo,2022-08-06
+219,DNI,99192899,Carlos Torres Castillo,Persona natural,contacto219@cliente.example,994738476,Av. San Martín 1340,Víctor Larco,Trujillo,2022-03-13
+220,RUC,20965043632,Constructora Delgado E.I.R.L.,Constructora,contacto220@cliente.example,986465602,Av. Grau 1111,Lurigancho,Lima,2022-12-30
+221,DNI,19805766,Ángel Campos Aguilar,Maestro de obra,contacto221@cliente.example,984749883,Av. Los Álamos 1996,Santa Anita,Lima,2024-07-29
+222,DNI,50700898,Yesenia Lozano Gutiérrez,Persona natural,contacto222@cliente.example,970272717,Av. Pardo 912,Cayma,Arequipa,2023-07-20
+223,DNI,16623943,María Ríos Soto,Persona natural,contacto223@cliente.example,925220004,Jr. Junín 638,Lurigancho,Lima,2023-05-06
+224,DNI,96610150,Rosa Castillo Zevallos,Maestro de obra,contacto224@cliente.example,963190134,Av. Grau 794,Castilla,Piura,2022-08-14
+225,DNI,80073740,Rosa Quispe Mendoza,Persona natural,contacto225@cliente.example,989959615,Av. San Martín 1460,Arequipa,Arequipa,2023-12-16
+226,RUC,20724261749,Ferretería Delgado,Ferretería minorista,contacto226@cliente.example,968743027,Av. Grau 843,Independencia,Lima,2023-04-27
+227,RUC,20177156633,Constructora Torres S.A.C.,Constructora,,988411680,Av. San Martín 1102,La Perla,Callao,2023-10-18
+228,DNI,20001901,Percy Alarcón Castillo,Persona natural,contacto228@cliente.example,969135402,Calle Las Begonias 1595,Ventanilla,Callao,2023-09-11
+229,DNI,95290570,Walter Torres Zevallos,Persona natural,contacto229@cliente.example,956052976,Jr. Junín 1302,Independencia,Lima,2022-11-18
+230,RUC,20274513049,Constructora Chávez S.A.,Constructora,contacto230@cliente.example,929599868,Av. Pardo 957,Cerro Colorado,Arequipa,2024-03-27
+231,RUC,20278735216,Constructora Zevallos S.A.C.,Constructora,contacto231@cliente.example,954980087,Calle Las Begonias 1749,Ventanilla,Callao,2023-09-07
+232,DNI,25106451,Ana Chávez Ponce,Persona natural,contacto232@cliente.example,980225311,Av. San Martín 524,Independencia,Lima,2022-11-09
+233,DNI,64984362,Elena Ríos Cruz,Persona natural,contacto233@cliente.example,919115504,Jr. Libertad 828,La Perla,Callao,2023-07-25
+234,DNI,14326324,Percy Medina Vargas,Maestro de obra,contacto234@cliente.example,956597141,Jr. Ayacucho 1595,Independencia,Lima,2024-11-22
+235,DNI,94157745,Pedro Mendoza Zevallos,Maestro de obra,contacto235@cliente.example,974299859,Jr. Junín 1368,Lurigancho,Lima,2023-03-28
+236,RUC,20432570783,Constructora Medina S.A.,Constructora,contacto236@cliente.example,978757526,Av. Grau 1586,Ate,Lima,2022-10-21
+237,RUC,20630525451,Constructora Campos S.A.C.,Constructora,contacto237@cliente.example,976968736,Av. Túpac Amaru 1801,San Martín de Porres,Lima,2022-06-30
+238,DNI,76500730,Ángel Vega Salazar,Persona natural,contacto238@cliente.example,941408434,Jr. Junín 1369,La Perla,Callao,2024-01-29
+239,DNI,38760143,Ana Cárdenas Vargas,Persona natural,,990612299,Calle Las Begonias 790,Ate,Lima,2023-12-14
+240,DNI,60090049,Juan Quispe Flores,Maestro de obra,contacto240@cliente.example,994162465,Av. San Martín 1580,Ventanilla,Callao,2024-10-06
+241,DNI,84028872,Héctor Flores Mendoza,Persona natural,,982625886,Calle Los Pinos 619,Ate,Lima,2023-07-08
+242,DNI,74026063,Elena Medina Vega,Persona natural,,969531090,Jr. Ayacucho 1535,Ate,Lima,2022-02-12
+243,DNI,39501456,Karla Soto Valdivia,Persona natural,contacto243@cliente.example,982780660,Av. San Martín 1751,Trujillo,Trujillo,2024-06-29
+244,DNI,68428739,José Cruz Lozano,Persona natural,contacto244@cliente.example,955192996,Av. Túpac Amaru 1933,San Martín de Porres,Lima,2023-11-07
+245,RUC,10317594938,Pedro Cruz Alarcón,Maestro de obra,contacto245@cliente.example,993694094,Calle Las Begonias 1476,San Martín de Porres,Lima,2023-09-04
+246,DNI,82364735,Sofía Medina Salazar,Maestro de obra,contacto246@cliente.example,954452488,Calle Los Pinos 143,La Perla,Callao,2024-03-17
+247,DNI,58187232,Rosa Rojas Medina,Persona natural,,953094153,Av. Túpac Amaru 779,Cerro Colorado,Arequipa,2022-02-15
+248,RUC,10304776986,Luz Medina Navarro,Maestro de obra,contacto248@cliente.example,975827168,Calle Los Pinos 1094,Castilla,Piura,2024-09-15
+249,RUC,20968526673,Constructora Chávez E.I.R.L.,Constructora,contacto249@cliente.example,940170803,Jr. Junín 1873,Independencia,Lima,2023-03-22
+250,DNI,30785244,Karla Zevallos Ríos,Maestro de obra,contacto250@cliente.example,947499764,Jr. Libertad 1211,Trujillo,Trujillo,2024-07-11
+251,RUC,20159416984,Constructora Soto E.I.R.L.,Constructora,,986507049,Jr. Ayacucho 1119,Castilla,Piura,2022-11-13
+252,RUC,10216644831,Yesenia Quispe Rojas,Maestro de obra,contacto252@cliente.example,984617612,Av. Pardo 1925,Yanahuara,Arequipa,2024-05-15
+253,DNI,23018606,Percy Navarro Cruz,Persona natural,contacto253@cliente.example,985947673,Jr. Ayacucho 598,La Esperanza,Trujillo,2023-01-30
+254,RUC,20315647141,Constructora Ramos E.I.R.L.,Constructora,contacto254@cliente.example,972853984,Av. Los Álamos 1219,Ventanilla,Callao,2023-12-20
+255,DNI,55180461,Luz Cárdenas Mendoza,Persona natural,contacto255@cliente.example,980896040,Calle Los Pinos 712,Ate,Lima,2022-08-17
+256,RUC,20507749027,Constructora Silva S.A.C.,Constructora,contacto256@cliente.example,984236001,Av. Túpac Amaru 950,Yanahuara,Arequipa,2022-08-30
+257,DNI,94633303,Luis Ramos Ríos,Persona natural,contacto257@cliente.example,980070555,Calle Las Begonias 1469,Comas,Lima,2024-08-13
+258,DNI,81124707,Diego Zevallos Campos,Persona natural,contacto258@cliente.example,961483726,Calle Las Begonias 570,Trujillo,Trujillo,2022-11-20
+259,RUC,20855567748,Constructora Delgado S.A.C.,Constructora,contacto259@cliente.example,924448008,Av. Los Álamos 1655,San Martín de Porres,Lima,2023-05-14
+260,DNI,16354938,Walter Herrera Zevallos,Persona natural,contacto260@cliente.example,999098285,Av. Grau 1890,Lurigancho,Lima,2024-10-22
+261,RUC,20704265099,Ferretería Silva,Ferretería minorista,,969518901,Av. Pardo 906,Santa Anita,Lima,2023-07-27
+262,DNI,15723816,Óscar Silva Vargas,Persona natural,,976333518,Av. Grau 981,Veintiséis de Octubre,Piura,2024-11-06
+263,DNI,24460096,Jorge Ríos Alarcón,Persona natural,contacto263@cliente.example,948919738,Av. San Martín 541,Castilla,Piura,2023-02-07
+264,RUC,10595846000,Carmen Paredes Gutiérrez,Maestro de obra,,997171756,Jr. Libertad 1778,La Perla,Callao,2024-09-03
+265,DNI,82165211,Juan Aguilar Herrera,Maestro de obra,contacto265@cliente.example,985010336,Av. Grau 1098,Cayma,Arequipa,2022-10-14
+266,DNI,62742723,Carmen Cruz Herrera,Persona natural,contacto266@cliente.example,916780465,Calle Los Pinos 1457,Yanahuara,Arequipa,2022-10-18
+267,DNI,97154228,Ana Vargas Campos,Persona natural,contacto267@cliente.example,938531820,Jr. Ayacucho 1747,Comas,Lima,2023-11-14
+268,DNI,53401564,Patricia Alarcón Alarcón,Maestro de obra,contacto268@cliente.example,946804795,Jr. Junín 571,Lurigancho,Lima,2024-10-26
+269,DNI,85060679,Héctor Huamán Mendoza,Persona natural,contacto269@cliente.example,941280340,Jr. Ayacucho 207,Bellavista,Callao,2023-03-01
+270,DNI,44295995,Diego Mendoza Vega,Persona natural,contacto270@cliente.example,990850950,Jr. Ayacucho 706,Veintiséis de Octubre,Piura,2022-05-29
+271,DNI,91312196,Jorge Paredes Rojas,Persona natural,contacto271@cliente.example,946260278,Jr. Junín 1795,Lurigancho,Lima,2023-09-19
+272,DNI,19915411,Ana Chávez Quispe,Maestro de obra,,977499628,Jr. Ayacucho 359,Piura,Piura,2022-08-24
+273,DNI,76849927,Pedro Silva Medina,Maestro de obra,contacto273@cliente.example,965746017,Jr. Libertad 1799,La Perla,Callao,2023-10-09
+274,DNI,13416467,Ángel Mendoza Chávez,Maestro de obra,contacto274@cliente.example,932377948,Av. Grau 579,Callao,Callao,2024-01-21
+275,DNI,29724155,Jorge Torres Huamán,Persona natural,,971727999,Calle Las Begonias 514,Piura,Piura,2024-01-20
+276,DNI,98828098,Carmen Torres Ramos,Persona natural,contacto276@cliente.example,910060783,Jr. Libertad 1706,Comas,Lima,2022-10-23
+277,RUC,20876522637,Constructora Lozano E.I.R.L.,Constructora,contacto277@cliente.example,943876192,Av. Pardo 884,Arequipa,Arequipa,2022-07-28
+278,DNI,11160359,Ángel Delgado Zevallos,Persona natural,contacto278@cliente.example,951621456,Jr. Junín 1219,Yanahuara,Arequipa,2024-04-28
+279,DNI,90427888,Elena Herrera Salazar,Persona natural,,921152155,Jr. Ayacucho 1434,Cayma,Arequipa,2023-08-02
+280,DNI,22869068,Fiorella Alarcón Lozano,Persona natural,contacto280@cliente.example,980539633,Calle Las Begonias 1605,Cayma,Arequipa,2023-03-23
+281,DNI,92898317,Paola Cruz Salazar,Maestro de obra,contacto281@cliente.example,951182329,Av. San Martín 698,Comas,Lima,2022-01-22
+282,DNI,85298190,Luis Quispe Huamán,Persona natural,,991199251,Calle Los Pinos 1135,Comas,Lima,2022-07-05
+283,RUC,20765949139,Constructora Ríos E.I.R.L.,Constructora,contacto283@cliente.example,952065231,Calle Las Begonias 1358,Comas,Lima,2022-07-23
+284,DNI,98475072,Víctor Navarro Herrera,Persona natural,contacto284@cliente.example,933334277,Calle Las Begonias 531,San Martín de Porres,Lima,2024-03-18
+285,RUC,20721271401,Constructora Aguilar S.A.C.,Constructora,contacto285@cliente.example,953516366,Jr. Ayacucho 691,Ventanilla,Callao,2022-10-15
+286,DNI,54943909,Diego Torres Vargas,Persona natural,contacto286@cliente.example,937447172,Calle Los Pinos 900,Los Olivos,Lima,2024-08-23
+287,RUC,20625639543,Ferretería Huamán S.A.C.,Ferretería minorista,,943107229,Jr. Junín 115,Ventanilla,Callao,2024-11-27
+288,RUC,20213878380,Constructora Vega E.I.R.L.,Constructora,contacto288@cliente.example,913706940,Av. Pardo 1068,Santa Anita,Lima,2024-02-14
+289,RUC,20794172873,Constructora Delgado E.I.R.L.,Constructora,,920848983,Av. Pardo 1172,Independencia,Lima,2022-06-14
+290,DNI,68948208,Carmen Zevallos Navarro,Persona natural,contacto290@cliente.example,931391635,Av. Los Álamos 482,Comas,Lima,2024-08-01
+291,DNI,23087419,Gabriela Medina Ponce,Persona natural,contacto291@cliente.example,959149560,Av. Grau 580,Los Olivos,Lima,2024-08-05
+292,DNI,46666403,Paola Ponce Silva,Maestro de obra,contacto292@cliente.example,937424038,Av. Los Álamos 242,Comas,Lima,2022-01-09
+293,RUC,20141361299,Ferretería Valdivia S.A.C.,Ferretería minorista,,954590969,Jr. Junín 543,Comas,Lima,2023-04-02
+294,RUC,20224636017,Ferretería Torres E.I.R.L.,Ferretería minorista,contacto294@cliente.example,989069596,Av. Los Álamos 1711,Ate,Lima,2022-12-14
+295,DNI,59456168,Karla Ríos Soto,Persona natural,,975689552,Av. Pardo 1427,Veintiséis de Octubre,Piura,2023-01-04
+296,DNI,42247020,Patricia Soto Rojas,Persona natural,contacto296@cliente.example,914243566,Av. Los Álamos 735,La Esperanza,Trujillo,2022-06-03
+297,RUC,20497083851,Constructora Cruz S.A.C.,Constructora,contacto297@cliente.example,927825905,Av. Túpac Amaru 224,Bellavista,Callao,2023-12-29
+298,DNI,22179552,Milagros Herrera Cruz,Persona natural,contacto298@cliente.example,995081444,Av. Túpac Amaru 947,Los Olivos,Lima,2023-08-11
+299,RUC,20246637673,Constructora Zevallos S.A.C.,Constructora,,939791524,Jr. Ayacucho 1713,Callao,Callao,2022-07-20
+300,DNI,45501741,Sofía Ponce Huamán,Maestro de obra,contacto300@cliente.example,947757952,Av. Grau 1047,La Perla,Callao,2024-04-02
+301,RUC,10882354199,Karla Cruz Ponce,Maestro de obra,contacto301@cliente.example,947965540,Av. San Martín 1862,Callao,Callao,2024-11-23
+302,DNI,17946081,Héctor Campos Gutiérrez,Persona natural,contacto302@cliente.example,929778797,Calle Los Pinos 1923,Comas,Lima,2022-04-25
+303,DNI,74122027,Paola Chávez Paredes,Maestro de obra,contacto303@cliente.example,913576458,Av. San Martín 448,Trujillo,Trujillo,2022-09-14
+304,DNI,61425792,Héctor Rojas Salazar,Persona natural,contacto304@cliente.example,950122296,Jr. Ayacucho 1073,Callao,Callao,2022-08-20
+305,RUC,20484960000,Constructora Silva S.A.C.,Constructora,,970411457,Jr. Junín 1364,Comas,Lima,2024-05-17
+306,DNI,90957015,Luz Gutiérrez Vargas,Maestro de obra,contacto306@cliente.example,929182256,Av. Túpac Amaru 290,Cerro Colorado,Arequipa,2024-07-12
+307,RUC,10490596594,Diego Mendoza Gutiérrez,Maestro de obra,contacto307@cliente.example,969618732,Calle Los Pinos 138,Trujillo,Trujillo,2022-05-19
+308,DNI,13600551,Carlos Delgado Navarro,Maestro de obra,contacto308@cliente.example,937574618,Calle Los Pinos 1806,La Esperanza,Trujillo,2024-07-28
+309,DNI,25153594,Karla Ponce Gutiérrez,Maestro de obra,contacto309@cliente.example,995932584,Av. Grau 684,Cerro Colorado,Arequipa,2022-01-29
+310,RUC,20405194576,Constructora Herrera E.I.R.L.,Constructora,contacto310@cliente.example,927748267,Av. Grau 1517,Arequipa,Arequipa,2022-05-13
+311,RUC,20694237260,Ferretería Delgado,Ferretería minorista,contacto311@cliente.example,951012156,Calle Los Pinos 1776,Cerro Colorado,Arequipa,2022-12-24
+312,RUC,10807779411,Sofía Cruz Castillo,Maestro de obra,contacto312@cliente.example,985046573,Av. Pardo 1459,Veintiséis de Octubre,Piura,2022-08-29
+313,DNI,13285293,Sofía Mendoza Torres,Maestro de obra,,949778249,Jr. Libertad 510,Independencia,Lima,2024-12-20
+314,DNI,27942695,Luis Castillo Torres,Persona natural,contacto314@cliente.example,967667272,Jr. Libertad 1500,La Perla,Callao,2023-01-01
+315,DNI,60813362,Walter Campos Navarro,Persona natural,,938866624,Jr. Junín 902,Ate,Lima,2024-09-13
+316,DNI,74656641,Walter Chávez Chávez,Persona natural,contacto316@cliente.example,931029317,Jr. Junín 1890,Lurigancho,Lima,2022-04-23
+317,RUC,20916024615,Constructora Castillo S.A.C.,Constructora,contacto317@cliente.example,926218714,Av. Pardo 306,Ate,Lima,2023-01-18
+318,RUC,20833388037,Constructora Soto E.I.R.L.,Constructora,contacto318@cliente.example,988684540,Jr. Junín 1194,Los Olivos,Lima,2022-07-12
+319,RUC,10863106382,María Ramos Mendoza,Maestro de obra,contacto319@cliente.example,950595928,Jr. Ayacucho 1951,Santa Anita,Lima,2023-12-11
+320,DNI,56907146,Sofía Lozano Ríos,Persona natural,contacto320@cliente.example,991192484,Jr. Junín 153,Cayma,Arequipa,2022-11-03
+321,DNI,67446303,Lucía Ponce Vega,Persona natural,contacto321@cliente.example,921184686,Jr. Junín 196,La Perla,Callao,2024-08-29
+322,RUC,20295657853,Constructora Soto S.A.C.,Constructora,contacto322@cliente.example,995964804,Calle Los Pinos 1150,Bellavista,Callao,2023-11-07
+323,DNI,23383683,Sofía Ponce Navarro,Persona natural,contacto323@cliente.example,991915834,Calle Los Pinos 437,Ventanilla,Callao,2023-01-14
+324,RUC,10340520201,Ana Vargas Lozano,Maestro de obra,,988836543,Jr. Libertad 789,Callao,Callao,2024-01-15
+325,RUC,20892860932,Ferretería Rojas E.I.R.L.,Ferretería minorista,contacto325@cliente.example,935819912,Av. San Martín 1971,Cerro Colorado,Arequipa,2024-08-01
+326,DNI,15082840,Luz Silva Salazar,Persona natural,contacto326@cliente.example,958028926,Jr. Ayacucho 552,Víctor Larco,Trujillo,2024-09-11
+327,DNI,77405464,Fiorella Gutiérrez Huamán,Persona natural,,996779105,Jr. Ayacucho 1232,Ate,Lima,2024-04-15
+328,RUC,20291457912,Constructora Cárdenas S.A.,Constructora,contacto328@cliente.example,988361466,Jr. Libertad 104,Ventanilla,Callao,2024-07-22
+329,RUC,20555457160,Ferretería Alarcón E.I.R.L.,Ferretería minorista,contacto329@cliente.example,933659726,Av. Grau 888,Cayma,Arequipa,2022-05-23
+330,DNI,83894228,Rosa Cárdenas Cárdenas,Persona natural,,960312306,Jr. Libertad 325,Ventanilla,Callao,2022-12-26
+331,DNI,59638724,Milagros Paredes Alarcón,Persona natural,contacto331@cliente.example,933747792,Calle Los Pinos 1587,Víctor Larco,Trujillo,2024-09-13
+332,DNI,60911715,Paola Campos Lozano,Persona natural,contacto332@cliente.example,973957852,Av. Grau 434,Comas,Lima,2023-06-06
+333,DNI,76608699,Yesenia Cruz Huamán,Maestro de obra,,965532781,Av. Pardo 1292,Ventanilla,Callao,2023-08-03
+334,RUC,20227543569,Constructora Ponce E.I.R.L.,Constructora,contacto334@cliente.example,934111969,Jr. Junín 1724,Trujillo,Trujillo,2022-08-19
+335,RUC,20542638453,Ferretería Cárdenas S.A.C.,Ferretería minorista,contacto335@cliente.example,998404574,Av. San Martín 1397,Ate,Lima,2023-12-29
+336,DNI,40796613,Fiorella Vega Mendoza,Maestro de obra,contacto336@cliente.example,989913599,Jr. Libertad 1908,Santa Anita,Lima,2023-11-02
+337,DNI,18434654,Diego Alarcón Aguilar,Maestro de obra,,997867891,Av. Grau 1504,Trujillo,Trujillo,2022-12-05
+338,RUC,10268987164,Ana Flores Zevallos,Maestro de obra,contacto338@cliente.example,994299331,Av. Los Álamos 1767,Arequipa,Arequipa,2024-01-06
+339,DNI,11962710,Luis Zevallos Ramos,Maestro de obra,,993680905,Jr. Ayacucho 620,Veintiséis de Octubre,Piura,2022-09-11
+340,DNI,42951479,Víctor Ramos Cruz,Maestro de obra,contacto340@cliente.example,969790347,Av. Túpac Amaru 1568,La Esperanza,Trujillo,2022-09-26
+341,RUC,20269709392,Constructora Navarro S.A.,Constructora,contacto341@cliente.example,985852301,Calle Los Pinos 1838,San Martín de Porres,Lima,2024-02-18
+342,DNI,36982776,Milagros Quispe Mendoza,Maestro de obra,,952612022,Av. Grau 1083,Víctor Larco,Trujillo,2023-05-09
+343,DNI,48981775,Luz Vargas Flores,Maestro de obra,contacto343@cliente.example,911054016,Calle Los Pinos 1003,Trujillo,Trujillo,2023-06-19
+344,DNI,75608160,Gabriela Medina Silva,Persona natural,contacto344@cliente.example,927849213,Av. Túpac Amaru 631,Yanahuara,Arequipa,2023-12-26
+345,RUC,20583956356,Constructora Rojas E.I.R.L.,Constructora,contacto345@cliente.example,910482795,Jr. Ayacucho 1636,Independencia,Lima,2022-07-15
+346,DNI,71764878,Walter Mendoza Chávez,Persona natural,contacto346@cliente.example,961116069,Calle Las Begonias 1517,Santa Anita,Lima,2024-07-31
+347,DNI,19828632,Jorge Mendoza Rojas,Persona natural,contacto347@cliente.example,939527443,Calle Las Begonias 1512,San Martín de Porres,Lima,2023-08-15
+348,RUC,20106809628,Constructora Herrera E.I.R.L.,Constructora,contacto348@cliente.example,938366847,Jr. Ayacucho 1491,Ate,Lima,2022-03-19
+349,RUC,10856604489,Carmen Flores Lozano,Maestro de obra,,968415060,Jr. Junín 1390,Yanahuara,Arequipa,2022-04-19
+350,DNI,31381651,Karla Rojas Gutiérrez,Maestro de obra,contacto350@cliente.example,936746899,Av. San Martín 1504,San Martín de Porres,Lima,2023-11-24
+351,DNI,33899968,Lucía Campos Ramos,Maestro de obra,,964899413,Calle Las Begonias 301,Cerro Colorado,Arequipa,2023-03-31
+352,RUC,20762444237,Ferretería Castillo S.A.C.,Ferretería minorista,contacto352@cliente.example,989343365,Av. San Martín 617,Arequipa,Arequipa,2022-10-19
+353,DNI,12094667,Milagros Ponce Alarcón,Persona natural,contacto353@cliente.example,956821864,Av. Túpac Amaru 691,La Esperanza,Trujillo,2024-08-27
+354,DNI,57999574,Carlos Valdivia Cruz,Maestro de obra,,958495966,Av. Pardo 1366,Veintiséis de Octubre,Piura,2023-12-13
+355,DNI,82359640,Milagros Torres Paredes,Persona natural,contacto355@cliente.example,973769326,Av. San Martín 1318,San Martín de Porres,Lima,2024-06-26
+356,DNI,20983882,Sofía Ríos Navarro,Maestro de obra,contacto356@cliente.example,916346830,Calle Las Begonias 1947,La Esperanza,Trujillo,2023-12-05
+357,DNI,22045953,Diego Soto Paredes,Maestro de obra,contacto357@cliente.example,963530933,Av. Grau 275,Bellavista,Callao,2022-02-26
+358,DNI,70048707,Jorge Vargas Valdivia,Persona natural,,971382449,Av. Grau 842,Castilla,Piura,2022-11-07
+359,DNI,74410228,Jorge Herrera Quispe,Persona natural,contacto359@cliente.example,927562533,Av. Grau 700,Piura,Piura,2023-11-03
+360,DNI,35089505,Karla Alarcón Quispe,Persona natural,contacto360@cliente.example,918662450,Jr. Libertad 800,Bellavista,Callao,2023-04-13
+361,DNI,38922709,Miguel Mendoza Alarcón,Persona natural,contacto361@cliente.example,935231461,Calle Las Begonias 722,Ate,Lima,2024-12-14
+362,DNI,70141163,Raúl Valdivia Aguilar,Persona natural,,955391239,Av. Pardo 604,Cayma,Arequipa,2022-08-11
+363,RUC,20119986611,Ferretería Salazar S.A.C.,Ferretería minorista,,920969233,Jr. Ayacucho 562,Castilla,Piura,2022-02-16
+364,RUC,10234148033,José Paredes Quispe,Maestro de obra,contacto364@cliente.example,932773368,Av. San Martín 957,Los Olivos,Lima,2022-06-26
+365,DNI,97752747,Víctor Salazar Salazar,Persona natural,contacto365@cliente.example,986497524,Jr. Libertad 1931,Santa Anita,Lima,2024-07-17
+366,DNI,63825121,Karla Huamán Ríos,Persona natural,contacto366@cliente.example,978605973,Av. Pardo 756,San Martín de Porres,Lima,2024-10-28
+367,DNI,76194220,Patricia Vega Aguilar,Persona natural,contacto367@cliente.example,944738988,Jr. Libertad 377,Castilla,Piura,2024-10-11
+368,RUC,20344227671,Constructora Ramos E.I.R.L.,Constructora,contacto368@cliente.example,926228412,Jr. Junín 1829,San Martín de Porres,Lima,2024-05-30
+369,DNI,30276025,Carmen Quispe Medina,Persona natural,,924117175,Av. Los Álamos 1608,Santa Anita,Lima,2024-06-04
+370,DNI,40688909,Ana Quispe Navarro,Maestro de obra,,989313085,Calle Las Begonias 1201,Ventanilla,Callao,2022-05-22
+371,RUC,20453167158,Constructora Chávez S.A.C.,Constructora,contacto371@cliente.example,913505946,Av. Pardo 1045,Castilla,Piura,2023-09-22
+372,DNI,57144915,Óscar Campos Soto,Persona natural,,927222722,Av. Los Álamos 1534,San Martín de Porres,Lima,2024-05-06
+373,RUC,20524949389,Constructora Herrera S.A.C.,Constructora,,926145546,Calle Los Pinos 571,Víctor Larco,Trujillo,2024-06-29
+374,DNI,15007906,María Herrera Quispe,Persona natural,contacto374@cliente.example,942319738,Jr. Libertad 1549,Veintiséis de Octubre,Piura,2023-11-09
+375,DNI,59935186,Fiorella Campos Navarro,Maestro de obra,contacto375@cliente.example,941604535,Jr. Libertad 1686,Bellavista,Callao,2024-06-04
+376,DNI,44576402,Víctor Castillo Vargas,Persona natural,contacto376@cliente.example,971652565,Calle Las Begonias 711,Bellavista,Callao,2024-01-25
+377,DNI,36354373,Luz Soto Mendoza,Persona natural,contacto377@cliente.example,998319408,Av. Pardo 507,Cerro Colorado,Arequipa,2022-07-10
+378,RUC,20362610224,Ferretería Torres E.I.R.L.,Ferretería minorista,contacto378@cliente.example,948254512,Calle Los Pinos 651,Santa Anita,Lima,2022-10-18
+379,RUC,20395492149,Ferretería Ríos E.I.R.L.,Ferretería minorista,contacto379@cliente.example,954829454,Jr. Libertad 977,La Perla,Callao,2023-04-23
+380,DNI,61283641,Raúl Navarro Lozano,Maestro de obra,contacto380@cliente.example,993297867,Calle Las Begonias 784,San Martín de Porres,Lima,2023-10-25
+381,DNI,52010968,Carlos Chávez Cárdenas,Maestro de obra,contacto381@cliente.example,972222738,Jr. Libertad 153,Lurigancho,Lima,2024-05-27
+382,RUC,20155043549,Ferretería Valdivia S.A.C.,Ferretería minorista,contacto382@cliente.example,989903135,Av. Grau 328,Arequipa,Arequipa,2023-08-27
+383,DNI,96855666,Miguel Rojas Castillo,Persona natural,contacto383@cliente.example,936662680,Av. Túpac Amaru 558,Independencia,Lima,2022-07-16
+384,RUC,20753158810,Ferretería Lozano S.A.C.,Ferretería minorista,contacto384@cliente.example,935775518,Av. Pardo 744,San Martín de Porres,Lima,2022-08-24
+385,DNI,87906459,Sofía Ríos Silva,Maestro de obra,contacto385@cliente.example,977400793,Calle Las Begonias 429,Veintiséis de Octubre,Piura,2022-01-15
+386,DNI,47892408,Miguel Chávez Ramos,Maestro de obra,contacto386@cliente.example,923662089,Jr. Ayacucho 168,Independencia,Lima,2024-03-09
+387,DNI,72535469,José Vargas Salazar,Maestro de obra,contacto387@cliente.example,935877211,Calle Los Pinos 1474,Santa Anita,Lima,2023-12-19
+388,DNI,87695287,Pedro Valdivia Flores,Persona natural,contacto388@cliente.example,982037603,Jr. Junín 983,Callao,Callao,2024-01-29
+389,DNI,28429501,Ángel Torres Flores,Persona natural,,936596202,Av. Pardo 1578,La Perla,Callao,2022-11-06
+390,DNI,56486211,José Valdivia Castillo,Maestro de obra,,928254038,Av. Los Álamos 223,Independencia,Lima,2022-05-31
+391,RUC,20643962962,Ferretería Ponce,Ferretería minorista,,936731663,Av. San Martín 1955,Los Olivos,Lima,2023-01-07
+392,DNI,72965039,Percy Vargas Flores,Maestro de obra,contacto392@cliente.example,976162983,Av. Grau 473,Ventanilla,Callao,2022-03-17
+393,DNI,16389244,Luz Ponce Paredes,Persona natural,contacto393@cliente.example,996832256,Av. Pardo 413,Arequipa,Arequipa,2023-12-03
+394,RUC,20959264104,Constructora Silva S.A.,Constructora,contacto394@cliente.example,937579588,Jr. Libertad 1288,San Martín de Porres,Lima,2022-07-30
+395,DNI,50585631,Fiorella Campos Quispe,Persona natural,contacto395@cliente.example,991739875,Av. Los Álamos 1271,Víctor Larco,Trujillo,2024-10-21
+396,RUC,20673355953,Constructora Silva S.A.C.,Constructora,contacto396@cliente.example,976325610,Calle Los Pinos 1719,Víctor Larco,Trujillo,2024-03-05
+397,DNI,83707702,Luz Cruz Campos,Maestro de obra,contacto397@cliente.example,956838193,Jr. Ayacucho 1128,Santa Anita,Lima,2023-12-03
+398,RUC,20780868910,Constructora Vargas S.A.C.,Constructora,contacto398@cliente.example,957516595,Jr. Junín 1114,Santa Anita,Lima,2023-11-17
+399,DNI,18365812,Ana Valdivia Delgado,Maestro de obra,,937008246,Av. Túpac Amaru 1718,Trujillo,Trujillo,2023-06-17
+400,RUC,20456529382,Ferretería Vargas S.A.C.,Ferretería minorista,contacto400@cliente.example,965053416,Av. Grau 1690,Independencia,Lima,2022-11-25

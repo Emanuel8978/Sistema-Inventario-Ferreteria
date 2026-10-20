@@ -1,0 +1,33 @@
+﻿empleado_id,nombres,apellidos,dni,cargo,almacen_id,fecha_ingreso,email
+1,Raúl,Valdivia Flores,65579527,Administrador de sucursal,1,2017-07-16,raul.valdivia1@ferroandes.example
+2,Raúl,Zevallos Ríos,13747084,Vendedor,1,2021-05-03,raul.zevallos2@ferroandes.example
+3,Luis,Herrera Cruz,57422992,Vendedor,1,2015-01-06,luis.herrera3@ferroandes.example
+4,Carmen,Flores Castillo,19452887,Vendedor,1,2022-05-10,carmen.flores4@ferroandes.example
+5,Raúl,Campos Ríos,36940558,Almacenero,1,2015-09-20,raul.campos5@ferroandes.example
+6,Luz,Huamán Vargas,97937808,Administrador de sucursal,2,2022-08-23,luz.huaman6@ferroandes.example
+7,Fiorella,Ponce Soto,47863055,Vendedor,2,2023-03-11,fiorella.ponce7@ferroandes.example
+8,Walter,Mendoza Castillo,52398206,Vendedor,2,2018-04-24,walter.mendoza8@ferroandes.example
+9,Pedro,Vargas Vargas,20019751,Vendedor,2,2020-04-11,pedro.vargas9@ferroandes.example
+10,Sofía,Zevallos Campos,67843106,Almacenero,2,2021-11-28,sofia.zevallos10@ferroandes.example
+11,Luis,Torres Soto,18576144,Administrador de sucursal,3,2022-12-11,luis.torres11@ferroandes.example
+12,Héctor,Ponce Ramos,56551095,Vendedor,3,2016-02-23,hector.ponce12@ferroandes.example
+13,Carlos,Paredes Campos,82658337,Vendedor,3,2021-05-28,carlos.paredes13@ferroandes.example
+14,José,Cárdenas Delgado,42965940,Vendedor,3,2019-08-13,jose.cardenas14@ferroandes.example
+15,Héctor,Mendoza Soto,24423929,Almacenero,3,2017-12-02,hector.mendoza15@ferroandes.example
+16,Fiorella,Valdivia Chávez,78876274,Administrador de sucursal,4,2023-01-16,fiorella.valdivia16@ferroandes.example
+17,Juan,Vega Ríos,70579775,Vendedor,4,2023-09-05,juan.vega17@ferroandes.example
+18,Patricia,Castillo Silva,89446124,Vendedor,4,2017-06-06,patricia.castillo18@ferroandes.example
+19,Walter,Chávez Medina,85899165,Vendedor,4,2023-01-23,walter.chavez19@ferroandes.example
+20,Jorge,Chávez Silva,63792085,Almacenero,4,2020-05-16,jorge.chavez20@ferroandes.example
+21,Sofía,Salazar Vega,17175900,Administrador de sucursal,5,2022-01-12,sofia.salazar21@ferroandes.example
+22,Víctor,Zevallos Lozano,28880481,Vendedor,5,2023-07-26,victor.zevallos22@ferroandes.example
+23,Patricia,Delgado Zevallos,44567662,Vendedor,5,2020-05-29,patricia.delgado23@ferroandes.example
+24,Juan,Navarro Vega,97588594,Vendedor,5,2020-11-25,juan.navarro24@ferroandes.example
+25,Carlos,Chávez Herrera,39559910,Almacenero,5,2018-02-12,carlos.chavez25@ferroandes.example
+26,Luz,Rojas Mendoza,47256164,Administrador de sucursal,6,2018-04-14,luz.rojas26@ferroandes.example
+27,Diego,Navarro Alarcón,48509361,Vendedor,6,2019-06-09,diego.navarro27@ferroandes.example
+28,Fiorella,Huamán Vargas,99224923,Vendedor,6,2019-06-18,fiorella.huaman28@ferroandes.example
+29,Luis,Castillo Flores,73663551,Vendedor,6,2017-09-08,luis.castillo29@ferroandes.example
+30,María,Salazar Ramos,74392755,Almacenero,6,2020-12-28,maria.salazar30@ferroandes.example
+31,Juan,Cárdenas Rojas,15225710,Comprador,1,2019-03-24,juan.cardenas31@ferroandes.example
+32,Fiorella,Huamán Huamán,53692637,Comprador,1,2019-06-02,fiorella.huaman32@ferroandes.example
